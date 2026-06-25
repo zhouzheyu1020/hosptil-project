@@ -254,8 +254,8 @@ VO 封装优化：预约模块通过 LEFT JOIN 联表查询，使用自定义 Ap
 预约管理页
 
 作者
-姓名：[你的名字]
+姓名：zzy
 
-邮箱：[你的邮箱]
+邮箱：3304177915@qq.com
 
-GitHub：[你的 GitHub 链接]
+GitHub：https://github.com/zhouzheyu1020/hosptil-project
