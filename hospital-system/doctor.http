@@ -1,0 +1,12 @@
+### 新增医生
+POST http://localhost:8080/doctors
+Content-Type: application/json
+
+{
+  "name": "周医生",
+  "gender": "男",
+  "age": 21,
+  "phone": "13000000000",
+  "title": "副主任医师",
+  "departmentId": 2
+}

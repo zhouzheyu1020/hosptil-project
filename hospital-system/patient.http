@@ -1,0 +1,12 @@
+### 修改id为1的患者
+PUT http://localhost:8080/patients/1
+Content-Type: application/json
+
+{
+  "name": "张三丰",
+  "gender": "男",
+  "age": 21,
+  "phone": "13800000001",
+  "idCard": "110101",
+  "address": "北京朝阳"
+}

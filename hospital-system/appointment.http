@@ -1,0 +1,11 @@
+### 查询全部
+GET http://localhost:8080/appointments
+
+### 按患者姓名搜索
+GET http://localhost:8080/appointments?patientName=张
+
+### 按状态搜索
+GET http://localhost:8080/appointments?status=待就诊
+
+### 组合搜索
+GET http://localhost:8080/appointments?patientName=李&status=已取消
